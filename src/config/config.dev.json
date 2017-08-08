@@ -1,0 +1,21 @@
+{
+  "cognito": {
+    "poolId": "us-east-1:51cd4e6f-c9aa-4053-a3b1-17ec29b09fd7"
+  },
+  "lex": {
+    "botName": "GetBizDetailsBot",
+    "initialText": "You can ask me for Financial and Risk Information on Companies . Just type your query or click on the mic and say it.",
+    "initialSpeechInstruction": "Hi,I'm NLUX. How can i help you ?"
+  },
+  "polly": {
+    "voiceId": "Salli"
+  },
+  "ui": {
+    "parentOrigin": "http://localhost:8080",
+    "pageTitle": "IGNOVATE",
+    "toolbarTitle": "NLUX - Natural Language Understanding & Exchange"
+  },
+  "recorder": {
+    "preset": "speech_recognition"
+  }
+}
